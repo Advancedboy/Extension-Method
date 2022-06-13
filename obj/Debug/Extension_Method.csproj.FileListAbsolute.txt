@@ -1,0 +1,8 @@
+E:\#1Programming\2022\patterns\Extension_Method\Extension_Method\bin\Debug\Extension_Method.exe.config
+E:\#1Programming\2022\patterns\Extension_Method\Extension_Method\bin\Debug\Extension_Method.exe
+E:\#1Programming\2022\patterns\Extension_Method\Extension_Method\bin\Debug\Extension_Method.pdb
+E:\#1Programming\2022\patterns\Extension_Method\Extension_Method\obj\Debug\Extension_Method.csproj.AssemblyReference.cache
+E:\#1Programming\2022\patterns\Extension_Method\Extension_Method\obj\Debug\Extension_Method.csproj.SuggestedBindingRedirects.cache
+E:\#1Programming\2022\patterns\Extension_Method\Extension_Method\obj\Debug\Extension_Method.csproj.CoreCompileInputs.cache
+E:\#1Programming\2022\patterns\Extension_Method\Extension_Method\obj\Debug\Extension_Method.exe
+E:\#1Programming\2022\patterns\Extension_Method\Extension_Method\obj\Debug\Extension_Method.pdb
